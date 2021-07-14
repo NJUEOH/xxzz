@@ -9,7 +9,7 @@ def get_cursor():  # 从何处取出数据
         'host': 'localhost',
         'port': 3306,
         'user': 'root',
-        'passwd': 'jjZYQ020509',
+        'passwd': '88888888',
         'db': 'text1',
         'charset': 'utf8'
     }
